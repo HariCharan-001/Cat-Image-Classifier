@@ -1,2 +1,2 @@
 # Cat-Image-Classifier
-Image Classifier - Cat
+Built and trained a deep L-layer neural network, to classift cat images from non-cat images.
